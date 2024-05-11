@@ -1,0 +1,40 @@
+.aboutPageContainer{
+    background-color: rgb(8, 0, 66);
+    color: white;
+}
+
+.innerContainer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 7.5rem;
+    padding-bottom: 11.8rem;
+}
+
+.aboutDesc{
+    width: 45%;
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+}
+
+.glanceContainer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.glance{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+}
+
+.aboutImg{
+    text-align: end;
+    position: relative;
+    width: 45%;
+    height: 47vh;
+    margin: auto 0;
+}

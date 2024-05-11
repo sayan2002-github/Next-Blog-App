@@ -1,0 +1,22 @@
+.navbarHead {
+  font-family: "Poetsen One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* .rightNav{
+    width: 12%;
+} */
+
+.user{
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    gap: 4px;
+}
+
+.userProfile{
+    width: 1.5rem;
+    height: 1.5rem;
+}
